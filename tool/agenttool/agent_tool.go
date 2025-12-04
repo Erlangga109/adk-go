@@ -16,6 +16,10 @@
 // This enables composition of agents, which can be useful for scenarios where
 // different types of `genai` tools cannot be used together.
 //lorem12736872687468273648736473268476264
+
+
+
+//akkksadbasdbhkasdhavduhavdjsavjhabdihadhabdjabdjhvdhvd
 package agenttool
 
 import (
